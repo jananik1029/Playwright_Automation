@@ -13,5 +13,16 @@
   },
   "dependencies": {
     "@cucumber/cucumber": "^11.2.0"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jananik1029/Playwright_Automation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jananik1029/Playwright_Automation/issues"
+  },
+  "homepage": "https://github.com/jananik1029/Playwright_Automation#readme"
 }
